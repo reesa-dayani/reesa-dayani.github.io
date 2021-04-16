@@ -218,7 +218,7 @@ Copyright (c) 2018 - mital_04
             speed: 75,
             loop:true,
             strings: [
-              'Computer Science Student and Aspiring Software Engineer',
+              'Computer Science Student and Software Engineer',
               
             ],
             breakLines: false
